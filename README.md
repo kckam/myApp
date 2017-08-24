@@ -1,2 +1,2 @@
 # myApp
-sample
+sample app
